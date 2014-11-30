@@ -1,4 +1,5 @@
 Linia pierwsza
-Linia druga
-Linia trzecia
+Nowa linia
 Linia czwarta
+Lubie placki
+Git majonez
